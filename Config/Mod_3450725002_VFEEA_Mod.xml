@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="VFEE_Ancient_ExtractPower.VFEEA_ModSettings">
+		<extractFailChance>0.15</extractFailChance>
+		<injectFailChance>0</injectFailChance>
+	</ModSettings>
+</SettingsBlock>

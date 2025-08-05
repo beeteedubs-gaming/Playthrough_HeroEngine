@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="FasterBiosculpterPod.Settings">
+		<medicCycleDays>3</medicCycleDays>
+		<bioregenerationCycleDays>5</bioregenerationCycleDays>
+		<bioregenerationCycleMedicineUltratech>0</bioregenerationCycleMedicineUltratech>
+		<ageReversalCycleDays>4</ageReversalCycleDays>
+		<pleasureCycleDays>2</pleasureCycleDays>
+		<nutritionRequired>0</nutritionRequired>
+		<biotuningDurationDays>0</biotuningDurationDays>
+		<powerConsumption>800</powerConsumption>
+		<standbyConsumption>0</standbyConsumption>
+		<workToBuild>28020</workToBuild>
+	</ModSettings>
+</SettingsBlock>

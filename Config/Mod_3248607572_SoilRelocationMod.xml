@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="SR.SoilRelocationSettings">
+		<SandbagsUseSandEnabled>True</SandbagsUseSandEnabled>
+		<FungalGravelUsesRawFungusEnabled>True</FungalGravelUsesRawFungusEnabled>
+		<DubsSkylightsGlassUsesSandEnabled>True</DubsSkylightsGlassUsesSandEnabled>
+		<JustGlassGlassUsesSandEnabled>True</JustGlassGlassUsesSandEnabled>
+		<GlassPlusLightsGlassUsesSandEnabled>True</GlassPlusLightsGlassUsesSandEnabled>
+		<VFEArchitectPackedDirtCostsDirtEnabled>True</VFEArchitectPackedDirtCostsDirtEnabled>
+	</ModSettings>
+</SettingsBlock>
