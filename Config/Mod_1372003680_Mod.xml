@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="Replace_Stuff.Settings">
+		<hideNormalCoolers>True</hideNormalCoolers>
+		<bridgePrefNames>
+			<li>VFEArch_BridgeSteel</li>
+			<li>VFEArch_ConcreteFoundation</li>
+			<li>VFEArch_BridgeSlate</li>
+			<li>VFEArch_BridgeSandstone</li>
+			<li>VFEArch_BridgeLimestone</li>
+			<li>VFEArch_BridgeMarble</li>
+			<li>VFEArch_BridgeGranite</li>
+			<li>Bridge</li>
+			<li>sandPath</li>
+			<li>VFEI2_Creep</li>
+			<li>VFEI2_JellyFloor</li>
+			<li>VFEI2_RoyalJellyFloor</li>
+		</bridgePrefNames>
+	</ModSettings>
+</SettingsBlock>

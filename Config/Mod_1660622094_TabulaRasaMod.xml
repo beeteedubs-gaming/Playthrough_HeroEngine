@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="TabulaRasa.TabulaRasaSettings">
+		<raceSpawningSettings>
+			<keys />
+			<values />
+		</raceSpawningSettings>
+		<raceSpawningWeights>
+			<keys />
+			<values />
+		</raceSpawningWeights>
+		<markedAsSeen />
+		<empireHostilityFixedFactions>
+			<keys>
+				<li>PlayerColony</li>
+				<li>PlayerTribe</li>
+				<li>ResearchExpedition</li>
+				<li>VFEA_NewVault</li>
+				<li>RE_AlliancePlayerColony</li>
+				<li>RE_DrellPlayerColony</li>
+				<li>RE_AsariPlayerColony</li>
+				<li>DevDesigner_WoodElvesFaction_Player</li>
+				<li>DevDesigner_HighElvesFaction_Player</li>
+				<li>DevDesigner_DarkElvesFaction_Player</li>
+				<li>RH_PlayerColony_MGS_FOXHOUND</li>
+				<li>VFEI2_PlayerOutpost</li>
+				<li>VRE_InsectorPlayerTribe</li>
+			</keys>
+			<values>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+			</values>
+		</empireHostilityFixedFactions>
+	</ModSettings>
+</SettingsBlock>
